@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <recursos>recursos</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>LA GRANJA</titulo>
+        <subtitulo>LOS ANIMALES</subtitulo>
+        <logo>PERRO.png</logo>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >CORRECTO</correcto>
+        <incorrecto son="" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>38</tipo>
+              <imaxe>Diapositiva1.JPG</imaxe>
+              <forma>0</forma>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="2" >
+              <tipo>38</tipo>
+              <imaxe>Diapositiva2.JPG</imaxe>
+              <forma>0</forma>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="3" >
+              <tipo>38</tipo>
+              <imaxe>Diapositiva3.JPG</imaxe>
+              <forma>0</forma>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="4" >
+              <tipo>38</tipo>
+              <imaxe>Diapositiva4.JPG</imaxe>
+              <forma>0</forma>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="5" >
+              <tipo>38</tipo>
+              <imaxe>Diapositiva5.JPG</imaxe>
+              <forma>0</forma>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="6" >
+              <tipo>38</tipo>
+              <imaxe>Diapositiva6.JPG</imaxe>
+              <forma>0</forma>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="7" >
+              <tipo>38</tipo>
+              <imaxe>Diapositiva7.JPG</imaxe>
+              <forma>0</forma>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="8" >
+              <tipo>38</tipo>
+              <imaxe>Diapositiva8.JPG</imaxe>
+              <forma>0</forma>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="9" >
+              <tipo>38</tipo>
+              <imaxe>Diapositiva9.JPG</imaxe>
+              <forma>0</forma>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="10" >
+              <tipo>38</tipo>
+              <imaxe>Diapositiva11.JPG</imaxe>
+              <forma>0</forma>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="11" >
+              <tipo>38</tipo>
+              <imaxe>Diapositiva10.JPG</imaxe>
+              <forma>0</forma>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="12" >
+              <tipo>3</tipo>
+              <pe>ROMPECABEZA</pe>
+              <imaxe>GRANJA.jpg</imaxe>
+              <filas>4</filas>
+              <columnas>4</columnas>
+              <reixa>0</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="13" >
+              <tipo>4</tipo>
+              <pe>SOPA DE LETRA</pe>
+              <modo>2</modo>
+              <sopa enun="gallo.png">GALLO</sopa>
+              <sopa enun="PERRO.png">CERDO</sopa>
+              <sopa enun="oveja.png">PERRO</sopa>
+              <sopa enun="vaca.png">CONEJO</sopa>
+              <sopa enun="conejo.png">OVEJA</sopa>
+              <sopa enun="cerdo.png">CABALLO</sopa>
+              <sopa enun="caballo.png">VACA</sopa>
+              <sopa enun="burro.png">BUERRO</sopa>
+              <enunciado>0</enunciado>
+              <colorea>1</colorea>
+              <cadro>1</cadro>
+        </paxina>
+        <paxina id="14" >
+              <tipo>32</tipo>
+              <pe>SIGUE LA SERIE</pe>
+              <modo></modo>
+              <etiqueta>cerdo.png</etiqueta>
+              <etiqueta>PERRO.png</etiqueta>
+              <etiqueta>vaca.png</etiqueta>
+              <etiqueta>oveja.png</etiqueta>
+        </paxina>
+        <paxina id="15" >
+              <tipo>11</tipo>
+              <pe>Arrastrar la palabra donde correponda</pe>
+              <modo>3</modo>
+              <cousa nome="CABALLO">caballo.png</cousa>
+              <cousa nome="BURRO">burro.png</cousa>
+              <cousa nome="CERDO">cerdo.png</cousa>
+              <cousa nome="CONEJO">conejo.png</cousa>
+              <cousa nome="GALLO Y GALLINA">gallo.png</cousa>
+        </paxina>
+        <paxina id="16" >
+              <tipo>17</tipo>
+              <pe>Encuentra la pareja</pe>
+              <parellas>conejo.png</parellas>
+              <parellas>burro.png</parellas>
+              <parellas>caballo.png</parellas>
+              <parellas>oveja.png</parellas>
+              <parellas>PERRO.png</parellas>
+              <parellas>vaca.png</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>000000</ctapa>
+        </paxina>
+        <paxina id="17" >
+              <tipo>20</tipo>
+              <pe>Escoje la respuesta correcta</pe>
+              <imaxe>GRANJA.jpg</imaxe>
+              <modo>9</modo>
+              <etiqueta posx="43" posy="108">gato</etiqueta>
+              <etiqueta posx="126" posy="113">gallina y gallo</etiqueta>
+              <etiqueta posx="215" posy="105">oveja</etiqueta>
+              <etiqueta posx="338" posy="154">vaca</etiqueta>
+              <etiqueta posx="221" posy="164">cerdo</etiqueta>
+              <etiqueta posx="139" posy="203">perro</etiqueta>
+        </paxina>
+        <paxina id="18" >
+              <tipo>50</tipo>
+              <pe>Escribe el nombre correcto</pe>
+              <peza imaxe="cerdo.png"  son="">cerdo</peza>
+              <peza imaxe="gallo.png"  son="">gallo</peza>
+              <peza imaxe="PERRO.png"  son="">perro</peza>
+        </paxina>
+        <paxina id="19" >
+              <tipo>50</tipo>
+              <pe>Escribe el nombre correcto</pe>
+              <peza imaxe="vaca.png"  son="">vaca</peza>
+              <peza imaxe="oveja.png"  son="">oveja</peza>
+              <peza imaxe="conejo.png"  son="">conejo</peza>
+        </paxina>
+        <paxina id="20" >
+              <tipo>46</tipo>
+              <pe>Relacionar </pe>
+              <etiqueta texto="lana"  posy="6">conejo</etiqueta>
+              <etiqueta texto="ladrar"  posy="2">perro</etiqueta>
+              <etiqueta texto="cazador"  posy="5">vaca</etiqueta>
+              <etiqueta texto="huevo"  posy="1">oveja</etiqueta>
+              <etiqueta texto="leche"  posy="3">gato</etiqueta>
+              <etiqueta texto="zanahoria"  posy="4">gallina</etiqueta>
+        </paxina>
+    </libro>
+</lim>
